@@ -1,0 +1,4 @@
+com\example\movieservice\model\Movie.class
+com\example\movieservice\MovieserviceApplication.class
+com\example\movieservice\repository\MovieRepository.class
+com\example\movieservice\controller\MovieController.class

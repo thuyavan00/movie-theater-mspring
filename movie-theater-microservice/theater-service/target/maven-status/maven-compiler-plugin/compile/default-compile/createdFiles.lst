@@ -1,0 +1,4 @@
+com\example\theaterservice\model\Theater.class
+com\example\theaterservice\repository\TheaterRepository.class
+com\example\theaterservice\TheaterserviceApplication.class
+com\example\theaterservice\controller\TheaterController.class
